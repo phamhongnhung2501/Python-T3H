@@ -1,0 +1,11 @@
+1.Write a program that prints ‘Hello World’ to the screen.
+2.Write a program that asks the user for their name and greets them with their name.
+3.Modify the previous program such that only the users Alice and Bob are greeted with their names.
+4.Write a program that asks the user for a number n and prints the sum of the numbers 1 to n
+5.Modify the previous program such that only multiples of three or five are considered in the sum, e.g. 3, 5, 6, 9, 10, 12, 15 for n=17
+6.Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. It counts only as one try if they input the same number multiple times consecutively.
+
+A bit of logic:
+1.Order the input string by ASC (a -> z, 0 -> 9) with any string
+2.Generate the output like: A(5), B(3), C(1) with input like ABBAAACB
+3.Write a program that prints the next 20 leap years (enter year or if not, get current year as default)

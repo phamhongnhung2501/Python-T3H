@@ -1,0 +1,21 @@
+Write a function that returns the largest element in a list.
+Write function that reverses a list, preferably in place.
+Write a function that checks whether an element occurs in a list.
+Write a function that returns the elements on odd positions in a list.
+Write a function that computes the running total of a list.
+Write a function that tests whether a string is a palindrome.
+
+Write three functions that compute the sum of the numbers in a list: using a for-loop, a while-loop and recursion. (Subject to availability of these constructs in your language of choice.)
+Write a function on_all that applies a function to every element of a list. Use it to print the first twenty perfect squares. The perfect squares can be found by multiplying each natural number with itself. The first few perfect squares are 1*1= 1, 2*2=4, 3*3=9, 4*4=16. Twelve for example is not a perfect square because there is no natural number m so that m*m=12. (This question is tricky if your programming language makes it difficult to pass functions as arguments.)
+Write a function that concatenates two lists. [a,b,c], [1,2,3] → [a,b,c,1,2,3]
+
+3 bài sau dịch lại ntn nhé
++ Viết 3 phương thức, tính tổng của các số trong 1 list - dùng vòng for, while và đệ quy
+
+
++ Viết 1 function on_all, áp dụng vào tất cả các đối tượng trong 1 list. Dùng func đó (on_all) tìm ra 12 số đầu tiên mà tạo thành số bình phương hoàn hảo (tức là căn bậc 2 ra thành số nguyên)
+
++ Viết 1 func ghép 2 list lại với nhau
+
+Practices Review (Group 1) - Áp dụng 1/2 số bài, buổi sau làm nửa còn lại -> Group 2
+Presentation: Conda Usage (Group 2), Debugging (group 3) & Inspection (Group 4)

@@ -1,0 +1,27 @@
+1. Application types
+- mobile
+- window/destop
+- web
+- embedded
+- enterprise
+- ML/AI 
+- server specific
+- device specific
+
+2. How to choose wisly
+- long term trend
+- large community
+........
+
+3. what we will learn with python
+- cai dat moi truong
+- hoc core python
+- making familiar voi python
+- hoc lam viec voi website/ webapp voi python django 
+- sneak peak on making API, ML Application
+- oauths
+.........
+
+*NOTE: - python la ngon ngu thong dich khong phai ngon ngu bien dich
+       - ngon ngu bien dich la co phan compiler
+       - 
